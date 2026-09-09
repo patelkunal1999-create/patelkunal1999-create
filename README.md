@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kunal Patel
+### BDS Graduate | Incoming MSc Bioinformatics & Genomic Medicine Student at Aston University
 
-<!--
-**patelkunal1999-create/patelkunal1999-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Background:**
+A clinical dental surgery foundation transitioning into bioinformatics, computational genomics, and health data.
 
-Here are some ideas to get you started:
+**Core Skills:**
+- Python (Beginner)
+- Bioinformatics (Beginner)
+- Clinical Documentation
+- Health Data Management
+- Research Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Academic Details:**
+- **Aston University**: MSc Bioinformatics and Genomic Medicine (starting Sept 2026)
+- **Sankalchand Patel University**: BDS
+
+**Contact / Links:**
+- [LinkedIn](https://www.linkedin.com/in/dr-kunal-patel-575aa41b2)
