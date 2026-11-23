@@ -39,6 +39,8 @@ Python | R | Genomics | NGS Data Analysis | Computational Biology
 
 🤝 Connect with Me
 
-- [LinkedIn]https://www.linkedin.com/in/kunal-patel-575aa41b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIxjY8iazSkydFaXcr%2Bw%2F9Q%3D%3D
+- [Linkedin]https://www.linkedin.com/in/kunal-patel-575aa41b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIxjY8iazSkydFaXcr%2Bw%2F9Q%3D%3D
 
-GitHub: @patelkunal1999-create
+- GitHub: @patelkunal1999-create
+
+- Gmail: patelkunal1999@gmail.com
